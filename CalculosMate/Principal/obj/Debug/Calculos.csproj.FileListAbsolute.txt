@@ -1,0 +1,6 @@
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\CalculosMate\Principal\bin\Debug\Principal.exe.config
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\CalculosMate\Principal\obj\Debug\Calculos.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\CalculosMate\Principal\bin\Debug\Principal.exe
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\CalculosMate\Principal\bin\Debug\Principal.pdb
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\CalculosMate\Principal\obj\Debug\Principal.exe
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\CalculosMate\Principal\obj\Debug\Principal.pdb
