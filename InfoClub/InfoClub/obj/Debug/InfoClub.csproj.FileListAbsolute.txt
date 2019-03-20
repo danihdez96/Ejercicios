@@ -1,0 +1,6 @@
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\InfoClub\InfoClub\bin\Debug\InfoClub.exe.config
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\InfoClub\InfoClub\bin\Debug\InfoClub.exe
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\InfoClub\InfoClub\bin\Debug\InfoClub.pdb
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\InfoClub\InfoClub\obj\Debug\InfoClub.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\InfoClub\InfoClub\obj\Debug\InfoClub.exe
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\InfoClub\InfoClub\obj\Debug\InfoClub.pdb

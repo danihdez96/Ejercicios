@@ -1,0 +1,6 @@
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\CalculosEmp\CalculosEmp\bin\Debug\CalculosEmp.exe.config
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\CalculosEmp\CalculosEmp\bin\Debug\CalculosEmp.exe
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\CalculosEmp\CalculosEmp\bin\Debug\CalculosEmp.pdb
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\CalculosEmp\CalculosEmp\obj\Debug\CalculosEmp.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\CalculosEmp\CalculosEmp\obj\Debug\CalculosEmp.exe
+C:\Users\Daniela\Desktop\Ejercicios C# Proyectos VS\CalculosEmp\CalculosEmp\obj\Debug\CalculosEmp.pdb
